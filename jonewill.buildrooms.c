@@ -49,14 +49,14 @@ const char *fileNames[7] =
 //List of 10 rooms names
 char *roomNames[10] = 
 {
-    "Living Room", 
-    "Master Bedroom", 
+    "Living_Room", 
+    "Master_Bedroom", 
     "Office", 
     "Kitchen", 
-    "Bathroom 1", 
-    "Guest Bedroom", 
-    "Bathroom 2", 
-    "Front Porch", 
+    "Bathroom_1", 
+    "Guest_Bedroom", 
+    "Bathroom_2", 
+    "Front_Porch", 
     "Garage", 
     "Basement"
 };
